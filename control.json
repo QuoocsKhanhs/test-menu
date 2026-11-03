@@ -1,7 +1,9 @@
 {
   "locked": false,
-  "lock_message": "liên hệ để được mở khóa",
+  "lock_message": "",
   "blocked_machines": [],
+  "locked_items": [],
+  "item_lock_message": "Mục này đã bị khóa bởi người quản lý.",
   "latest_version": "",
   "force_update": false,
   "update_notes": "",
@@ -9,5 +11,5 @@
   "sha256_exe": "",
   "url_py": "",
   "sha256_py": "",
-  "max_offline_days": 0
+  "max_offline_days": 7
 }
