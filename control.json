@@ -1,0 +1,13 @@
+{
+  "locked": true,
+  "lock_message": "liên hệ để được mở khóa",
+  "blocked_machines": [],
+  "latest_version": "",
+  "force_update": false,
+  "update_notes": "",
+  "url_exe": "",
+  "sha256_exe": "",
+  "url_py": "",
+  "sha256_py": "",
+  "max_offline_days": 0
+}
